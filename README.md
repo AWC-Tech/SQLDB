@@ -7,12 +7,12 @@ How I made the Database
 
 First, I created a Microsoft Azure SQL database and server. I used the credentials to connect to VS Code. This allowed me to create the SQL Database without leaving my VS Code workspace, allowing me to track my coding time with Wakatime.
 Secondly, I used the SQL commands: 
-'''
+```
 CREATE TABLE sprintcars3 (
   pos INT PRIMARY KEY,
   driver VARCHAR(255) NOT NULL,
   locatiom VARCHAR(255) NOT NULL,
   wins INT NOT NULL
   );
-  '''
+  ```
   This creates the table, then the code inside of DB.sql inserts the data into said table.
