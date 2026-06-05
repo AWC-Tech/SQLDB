@@ -186,7 +186,4 @@ CREATE TABLE sprintcars3 (
   wins INT NOT NULL
   );
   ```
-This multi-lined code creates a table within the SQL Database. CREATE TABLE 'sprintcars3' defines that I want to create a table named 'sprintcars3'. <br>
-'pos INT PRIMARY KEY' is the first column that is going to be created in the table. 'pos' is the name of the column, which in this case means position. <br>
-'INT' is the data type; in this case, 'INT' means integer. 'PRIMARY KEY' specifies that any integer that is inserted into the table is unique and cannot be empty.
-In the third line, 'driver' is the name of the column, and VARCHAR(255) is the data type. In this case, the data type for the column will be a string, and (255) specifies how many characters long the string can be. Lastly, the constraint 'NOT NULL' makes sure the data in that column cannot be empty, as it has to have data. Otherwise, inserting data into that column will fail.
+This multi-lined code creates a table within the SQL Database. CREATE TABLE 'sprintcars3' defines that I want to create a table named 'sprintcars3'. 'pos INT PRIMARY KEY' is the first column that is going to be created in the table. 'pos' is the name of the column, which in this case means position. 'INT' is the data type; in this case, 'INT' means integer. 'PRIMARY KEY' specifies that any integer that is inserted into the table is unique and cannot be empty. In the third line, 'driver' is the name of the column, and VARCHAR(255) is the data type. In this case, the data type for the column will be a string, and (255) specifies how many characters long the string can be. Lastly, the constraint 'NOT NULL' makes sure the data in that column cannot be empty, as it has to have data. Otherwise, inserting data into that column will fail.
