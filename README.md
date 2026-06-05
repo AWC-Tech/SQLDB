@@ -1,7 +1,9 @@
 This is an SQL Database I made for a Stardance website I created. This Database uses Microsoft Azure, which makes it more difficult to display. So I inserted the code here. 
 
+**_PLEASE READ TO THE END OF THE PAGE_**
 
-**ALL INFORMATION IN THIS DATABASE BELONGS TO https://worldofoutlaws.com/sprintcars/historical-stats-sprint-cars/all-time-wins/ AND OTHER RESPECTIVE HOLDERS**
+**ALL INFORMATION IN THIS DATABASE BELONGS TO <br>
+https://worldofoutlaws.com/sprintcars/historical-stats-sprint-cars/all-time-wins/ AND OTHER RESPECTIVE HOLDERS**
 
 How I made the Database
 
